@@ -1,0 +1,2 @@
+# AlgoPractice
+Algorithms self practice.
